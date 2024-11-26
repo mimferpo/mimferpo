@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  I’m aspiring QA Engineer & JavaScript Developer, currently building my skills in cloud automation, data processing, and API integration. Focused on strengthening my Linux foundation and improving product quality through automation. I'm progressing towards a path in data science and AI-powered solutions.
+  Focused on strengthening my Linux foundation and improving product quality through automation.
 </p>
 
 ### Current Focus Areas:
