@@ -12,10 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  Focused on strengthening my Linux foundation and improving product quality through automation.
-</p>
-
 ### Current Focus Areas:
 - **JavaScript & Google Apps Script**
 - **Regex**  
@@ -24,7 +20,7 @@
 - **Data Processing**
 - **OpenAI APIs**
 - **API Integration**
-- **QA Testing**
+- **Data Analysis**
 - **Linux**
 
 <p align="center">
