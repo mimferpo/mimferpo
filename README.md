@@ -18,7 +18,6 @@
 - **Cloud computing**
 - **Logging & Debugging tools**
 - **Data Processing**
-- **OpenAI APIs**
 - **API Integration**
 - **Data Analysis**
 - **Linux**
