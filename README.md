@@ -10,13 +10,8 @@
 </p>
 
 ### Current Focus Areas:
-- **JavaScript & Google Apps Script**
-- **Regex**  
-- **Cloud computing**
-- **Logging & Debugging tools**
-- **Data Processing**
+- **Python for data analysis**
 - **API Integration**
-- **Data Analysis**
 - **Linux**
 
 <p align="center">
