@@ -1,3 +1,65 @@
++--------------------------------------------------+
+|                                                  |
+|     HANDS-ON DATA ANALYST & TECH SUPPORT        |
+|     3 years @ US-based IT Consulting            |
+|            (Userlytics · Remote)                 |
+|                                                  |
++--------------------------------------------------+
+                      |
+                      v
++--------------------------------------------------+
+|         MVP INTERNAL TOOL CREATOR                |
+|            "Admin Dashboard Plus"                |
+|                                                  |
+|   MODULAR SCRIPTS:                               |
+|   +----------+  +-------------+  +---------+    |
+|   |  Study   |  | Recruitment |  |  Panel  |    |
+|   | Management|  |Orchestration|  | Health  |    |
+|   +----------+  +-------------+  +---------+    |
+|   +--------+  +------------------+               |
+|   | Fraud  |  | Structured Data  |               |
+|   |Detection|  |   Ingestion      |               |
+|   +--------+  +------------------+               |
+|                                                  |
+|          +---------------------+                 |
+|          |  Extended with AI    |                 |
+|          |   capabilities       |                 |
+|          +---------------------+                 |
+|                    |                             |
+|                    v                             |
+|          +---------------------+                 |
+|          |  DEPLOYED TO:       |                 |
+|          |  • Business Dev     |                 |
+|          |  • Operations Teams |                 |
+|          +---------------------+                 |
+|                    |                             |
+|                    v                             |
+|          +---------------------+                 |
+|          |    KEY METRICS      |                 |
+|          +---------------------+                 |
+|          | 🏆 Awarded as ONE OF |                 |
+|          |   THE TOP OPERATIONAL |                 |
+|          |   ACHIEVEMENTS EVER   |                 |
+|          |   in Userlytics       |                 |
+|          |                      |                 |
+|          | ➤ SECOND MOST USED   |                 |
+|          |   dashboard daily     |                 |
+|          |                      |                 |
+|          | ➤ Layered on top of   |                 |
+|          |   production env      |                 |
+|          +---------------------+                 |
++--------------------------------------------------+
+                      |
+                      v
++--------------------------------------------------+
+|                                                  |
+|            🧠 WHAT DRIVES ME                      |
+|                                                  |
+|     Passionate about data engineering,           |
+|     process optimization, and leveraging AI      |
+|         to solve real-world problems.            |
+|                                                  |
++--------------------------------------------------+
 
 ## 💻 Programming & Scripting
 
