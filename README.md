@@ -1,3 +1,5 @@
+#### Hands-on, results-oriented Data Analyst and Technical Support Coordinator with 3 years of professional experience in the Operations Department of a US-based IT consulting firm.
+
 
 ## 🧭 Career Timeline
 
