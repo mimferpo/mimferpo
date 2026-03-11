@@ -1,65 +1,35 @@
-+--------------------------------------------------+
-|                                                  |
-|     HANDS-ON DATA ANALYST & TECH SUPPORT        |
-|     3 years @ US-based IT Consulting            |
-|            (Userlytics · Remote)                 |
-|                                                  |
-+--------------------------------------------------+
-                      |
-                      v
-+--------------------------------------------------+
-|         MVP INTERNAL TOOL CREATOR                |
-|            "Admin Dashboard Plus"                |
-|                                                  |
-|   MODULAR SCRIPTS:                               |
-|   +----------+  +-------------+  +---------+    |
-|   |  Study   |  | Recruitment |  |  Panel  |    |
-|   | Management|  |Orchestration|  | Health  |    |
-|   +----------+  +-------------+  +---------+    |
-|   +--------+  +------------------+               |
-|   | Fraud  |  | Structured Data  |               |
-|   |Detection|  |   Ingestion      |               |
-|   +--------+  +------------------+               |
-|                                                  |
-|          +---------------------+                 |
-|          |  Extended with AI    |                 |
-|          |   capabilities       |                 |
-|          +---------------------+                 |
-|                    |                             |
-|                    v                             |
-|          +---------------------+                 |
-|          |  DEPLOYED TO:       |                 |
-|          |  • Business Dev     |                 |
-|          |  • Operations Teams |                 |
-|          +---------------------+                 |
-|                    |                             |
-|                    v                             |
-|          +---------------------+                 |
-|          |    KEY METRICS      |                 |
-|          +---------------------+                 |
-|          | 🏆 Awarded as ONE OF |                 |
-|          |   THE TOP OPERATIONAL |                 |
-|          |   ACHIEVEMENTS EVER   |                 |
-|          |   in Userlytics       |                 |
-|          |                      |                 |
-|          | ➤ SECOND MOST USED   |                 |
-|          |   dashboard daily     |                 |
-|          |                      |                 |
-|          | ➤ Layered on top of   |                 |
-|          |   production env      |                 |
-|          +---------------------+                 |
-+--------------------------------------------------+
-                      |
-                      v
-+--------------------------------------------------+
-|                                                  |
-|            🧠 WHAT DRIVES ME                      |
-|                                                  |
-|     Passionate about data engineering,           |
-|     process optimization, and leveraging AI      |
-|         to solve real-world problems.            |
-|                                                  |
-+--------------------------------------------------+
+```mermaid
+flowchart TD
+    P["💡 Passion:<br>Data Engineering • Process Optimization • AI"] --> A
+
+    A["👤 Hands‑on Data Analyst & Technical Support Coordinator<br>3 years @ Userlytics (Remote)"] --> B
+
+    B["⚙️ MVP Internal Tool Creator<br>'Userlytics Admin Dashboard Plus'"] --> C
+
+    C["🤖 Built modular scripts & pipelines<br>to automate data operational workflows"] --> D
+
+    subgraph D ["📦 Pipelines & Scripts"]
+        direction TB
+        D1["📊 Live Session Data Report"]
+        D2["📈 Study Recruitment Health Report"]
+        D3["🔍 External IP Quality"]
+    end
+
+    D --> E["✨ Extended with AI capabilities"]
+
+    E --> F["🚀 Deployed to:<br>• BD Team<br>• Ops Team"]
+
+    F --> G["🏆 Key Metrics"]
+
+    subgraph G [Key Metrics]
+        direction TB
+        G1["🏅 Awarded as one of the top operational<br>achievements ever in Userlytics"]
+        G2["📌 Second most used internal dashboard<br>on a daily basis"]
+        G3["🔗 Layered on top of production environment<br>(seamless integration with main Admin Dashboard)"]
+    end
+
+    G --> H["💡 Passion:<br>Data Engineering • Process Optimization • AI"]
+```
 
 ## 💻 Programming & Scripting
 
