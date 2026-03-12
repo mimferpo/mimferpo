@@ -34,14 +34,16 @@ At Userlytics, I designed tailored data solutions to collect, process, and valid
 
 As the peak of my Data Analytics journey at Userlytics, I architected and developed **Userlytics Admin Dashboard Plus** — an MVP internal tool layered on top of the production Admin Dashboard, extended with AI capabilities, and deployed across the BD and Operations teams.
 
-| Pipeline / Script | Description |
-|---|---|
-| 📊 Live Session Data Report | Automated ETL pipeline delivering real-time operational visibility |
-| 📈 Study Recruitment Health Report | Modular pipeline for recruitment monitoring and study health tracking |
-| 🔍 External IP Quality | Regex + API pipeline for VPN/proxy detection and fraud signal enrichment |
+| Pipeline / Script |
+|---|
+| 📊 Session-level Data Report |
+| 📈 Study-level Health Report |
+| 🔄 Study-level Clone/Transfer automation |
+
+---
 
 **Impact**
-- 🏅 Awarded as one of the **top operational achievements** in Userlytics history
+- 🏅 Awarded as one of the **top operational achievements** in Userlytics operations department history
 - 📌 **2nd most-used internal dashboard** daily across BD and Operations teams
 - 🔗 Seamlessly layered on top of the production environment
 
