@@ -66,7 +66,6 @@ Led and directed international experimental film projects across the full produc
 <br>
 
 ---
-
 ## 🛠 &nbsp;Tech Stack & Skills
 
 <br>
@@ -74,9 +73,11 @@ Led and directed international experimental film projects across the full produc
 **💻 Programming & Scripting**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-34A853?style=for-the-badge&logo=google&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-Pattern_Matching-6A0DAD?style=for-the-badge)
 
 <br>
 
@@ -84,19 +85,31 @@ Led and directed international experimental film projects across the full produc
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![JSON/CSV](https://img.shields.io/badge/JSON%2FCSV-FF6F00?style=for-the-badge)
-![ETL](https://img.shields.io/badge/ETL_Pipelines-0052CC?style=for-the-badge)
+![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-0052CC?style=for-the-badge)
 ![Relational Databases](https://img.shields.io/badge/Relational_Databases-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge)
 
 <br>
 
-**📊 Data Visualization & Reporting**
+**📊 Data Analysis**
+
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FF8C00?style=for-the-badge)
+![Data Wrangling](https://img.shields.io/badge/Data_Wrangling-FF6F00?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/Data_Validation-FFA500?style=for-the-badge)
+![Data Extraction](https://img.shields.io/badge/Data_Extraction-CC5500?style=for-the-badge)
+![Data Pipeline Orchestration](https://img.shields.io/badge/Pipeline_Orchestration-0052CC?style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-2F4F4F?style=for-the-badge)
+![Reporting](https://img.shields.io/badge/Reporting-008080?style=for-the-badge)
+
+<br>
+
+**📈 Data Visualization**
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Reporting](https://img.shields.io/badge/Reporting-008080?style=for-the-badge)
-![Data Validation](https://img.shields.io/badge/Data_Validation-FF8C00?style=for-the-badge)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <br>
 
@@ -105,18 +118,18 @@ Led and directed international experimental film projects across the full produc
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![Webhooks](https://img.shields.io/badge/Webhooks-0052CC?style=for-the-badge)
 ![OAuth](https://img.shields.io/badge/OAuth-000000?style=for-the-badge)
+![API Data Ingestion](https://img.shields.io/badge/API_Data_Ingestion-005571?style=for-the-badge)
 ![Task Automation](https://img.shields.io/badge/Task_Automation-FF4500?style=for-the-badge)
 ![Scheduled Scripts](https://img.shields.io/badge/Scheduled_Scripts-32CD32?style=for-the-badge)
+![Spreadsheet Automation](https://img.shields.io/badge/Spreadsheet_Automation-217346?style=for-the-badge)
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-8A2BE2?style=for-the-badge)
-![AI Workflows](https://img.shields.io/badge/AI--Assisted_Workflows-6A0DAD?style=for-the-badge)
+![AI Workflows](https://img.shields.io/badge/AI_Workflows-6A0DAD?style=for-the-badge)
 
 <br>
 
-**☁️ Cloud & Data Warehousing**
+**☁️ Cloud**
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 <br>
 
@@ -125,7 +138,8 @@ Led and directed international experimental film projects across the full produc
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux CLI](https://img.shields.io/badge/Linux_CLI-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 <br>
 
@@ -138,4 +152,24 @@ Led and directed international experimental film projects across the full produc
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
----
+<br>
+
+**🛡 ITSM & Support**
+
+![ITIL](https://img.shields.io/badge/ITIL-Framework-6A0DAD?style=for-the-badge)
+![Incident Management](https://img.shields.io/badge/Incident_Management-CC0000?style=for-the-badge)
+![SLA Management](https://img.shields.io/badge/SLA_Management-0052CC?style=for-the-badge)
+![Tier 0–2 Support](https://img.shields.io/badge/Tier_0--2_Support-003B57?style=for-the-badge)
+![Ticketing Administration](https://img.shields.io/badge/Ticketing_Administration-03363D?style=for-the-badge)
+![Knowledge Base Management](https://img.shields.io/badge/Knowledge_Base_Management-008080?style=for-the-badge)
+![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-2F4F4F?style=for-the-badge)
+![Remote Support](https://img.shields.io/badge/Remote_Support-1E90FF?style=for-the-badge)
+![Network Troubleshooting](https://img.shields.io/badge/Network_Troubleshooting-FF6F00?style=for-the-badge)
+
+<br>
+
+**🤝 Soft Skills**
+
+![Cross-functional Collaboration](https://img.shields.io/badge/Cross--functional_Collaboration-1E90FF?style=for-the-badge)
+![Requirements Gathering](https://img.shields.io/badge/Requirements_Gathering-FF1493?style=for-the-badge)
+![Technical Communication](https://img.shields.io/badge/Technical_Communication-4A154B?style=for-the-badge)
