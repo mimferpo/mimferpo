@@ -1,45 +1,61 @@
 # &nbsp;👤 &nbsp;Data Analyst · Technical Support Coordinator
+ 
+> Results-oriened Data Analyst and Technical Support Coordinator with 3 years in the Operations Department of a US-based IT consulting firm — deeply passionate about Data Engineering, Data Analysis, and AI.
 
-> *3 years · Operations · US-based IT consulting · Remote*
+## 🧭 Career Journey Overview
 
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-FF6F00?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge)
-![Process Optimization](https://img.shields.io/badge/Process_Optimization-1E90FF?style=for-the-badge)
-![ITIL](https://img.shields.io/badge/ITIL-Framework-6A0DAD?style=for-the-badge)
-![ITSM](https://img.shields.io/badge/ITSM-IT_Service_Management-0052CC?style=for-the-badge)
+```mermaid
+flowchart LR
+    A["🎬 Filmmaker<br>2015–2021"] -->|"Structure &<br>Storytelling"| B["💻 Frontend<br>Bootcamp<br>2021–2023"]
+    B -->|"Technical<br>Fluency"| C["🖥 IT Support<br>& ITSM<br>2023"]
+    C -->|"Operational<br>Gaps"| D["📊 Data Analysis<br>& Engineering<br>2023–Present"]
+    D -->|"Built & Shipped"| E["🏆 Userlytics Admin<br>Dashboard Plus<br>2nd most-used internal tool by business analysis teams"]
+    E -->|"Outcome"| F["🗣️ Data meets Business<br>Insights → Decisions<br>Tech → Impact"]
+
+    T["🧠 Pattern Recognition — spot what's broken,<br>understand the system, build a better way"]
+
+    style A fill:#1a1a2e,color:#fff,stroke:#e94560
+    style B fill:#1a1a2e,color:#fff,stroke:#f5a623
+    style C fill:#1a1a2e,color:#fff,stroke:#4a90d9
+    style D fill:#1a1a2e,color:#fff,stroke:#27ae60
+    style E fill:#1a1a2e,color:#ffd700,stroke:#ffd700
+    style F fill:#1a1a2e,color:#00d4ff,stroke:#00d4ff
+    style T fill:#0d0d0d,color:#888,stroke:#222
+```
 
 ## ⚡ Career Timeline
-
-<br>
 
 ### 🟦 &nbsp;2023 – Present &nbsp;·&nbsp; Technical Support Coordinator & Operations Research Specialist
 **Userlytics · Remote**
 
-Built and shipped **Userlytics Admin Dashboard Plus** MVP — an internal tool layered seamlessly on top of the production Admin Dashboard, extended with AI capabilities and deployed across the BD and Ops teams.
+What started as an IT support role quickly evolved into a data practice — gaps identified in business operations surfaced opportunities for data pipelines, automation scripts, and process improvement projects.
 
-| Pipelines & Scripts | Description |
+At Userlytics, I designed tailored data solutions to collect, process, and validate operational and panel data, transforming raw inputs into structured datasets that supported monitoring, reporting, and recruitment management. I built dashboards to track ongoing projects and study health, enabling teams to quickly identify trends and take action. I developed end-to-end study data pipelines, cleaning and analyzing research data to ensure accuracy and quality. I also integrated external datasets to enrich internal data, performing validation and verification to support actionable insights for fraud detection.
+
+As the peak of my Data Analytics journey at Userlytics, I architected and developed **Userlytics Admin Dashboard Plus** — an MVP internal tool layered on top of the production Admin Dashboard, extended with AI capabilities, and deployed across the BD and Operations teams.
+
+| Pipeline / Script | Description |
 |---|---|
-| 📊 Live Session Data Report | Real-time operational visibility |
-| 📈 Study Recruitment Health Report | Pipeline health monitoring |
-| 🔍 External IP Quality | Data integrity & fraud signal detection |
+| 📊 Live Session Data Report | Automated ETL pipeline delivering real-time operational visibility |
+| 📈 Study Recruitment Health Report | Modular pipeline for recruitment monitoring and study health tracking |
+| 🔍 External IP Quality | Regex + API pipeline for VPN/proxy detection and fraud signal enrichment |
 
 **Impact**
 - 🏅 Awarded as one of the **top operational achievements** in Userlytics history
-- 📌 **2nd most-used internal dashboard** on a daily basis for Business Development and Operations teams — after the Userlytics Admin Dashboard itself
-- 🔗 Seamlessly integrated on top of the production environment
+- 📌 **2nd most-used internal dashboard** daily across BD and Operations teams
+- 🔗 Seamlessly layered on top of the production environment
 
-<br>
 
-> **Note:** In parallel, I managed high-priority support incidents and collaborated directly with the **CTO and CPO** on resolution strategies and product improvements — including **problem management** to address recurring issues at the root. I took ownership of **EMEA support operations**, consistently achieving IT support KPIs and **SLA targets** — implementing self-service resources at **Tier 0** to deflect common issues, handling onboarding and intelligent ticket triage at **Tier 1**, and coordinating escalations at **Tier 2**, following **ITIL-aligned** multi-tiered workflows to ensure consistent service quality and team performance.
-> 
+> **In parallel — IT Support & ITSM:** Managed high-priority support incidents collaborating directly with the **CTO and CPO** on resolution strategies and product improvements, including **problem management** to address recurring issues at the root. Took ownership of **EMEA support operations**, consistently achieving IT support KPIs and **SLA targets** — implementing self-service resources at **Tier 0**, intelligent ticket triage and onboarding at **Tier 1**, and coordinating escalations at **Tier 2**, following **ITIL-aligned** multi-tiered workflows to ensure consistent service quality.
+
 ---
 
+
 ### 🟨 &nbsp;2021 – 2023 &nbsp;·&nbsp; Frontend Development Bootcamp
-*Gateway to Data Analysis*
-
+*Gateway to software development, IT operations, and data engineering*
+ 
 Completed a full Frontend Development Bootcamp — not as a career destination, but as a foundation for data engineering. The transferable skills built here directly enabled Python scripting, SQL, and data pipeline work.
-
+ 
 | Skill Developed | Applied To |
 |---|---|
 | Programming fundamentals (logic, functions, control flow) | Python scripting & automation |
@@ -47,7 +63,7 @@ Completed a full Frontend Development Bootcamp — not as a career destination, 
 | Version control · Git & GitHub | Collaborative data workflows |
 | Debugging & systematic problem-solving | Data quality & issue resolution |
 | Modular, reusable code architecture | Scalable pipeline design |
-
+ 
 <br>
 
 ---
