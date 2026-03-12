@@ -1,6 +1,6 @@
 # &nbsp;👤 &nbsp;Data Analyst · Technical Support Coordinator
  
-> Results-oriened Data Analyst and Technical Support Coordinator with 3 years in the Operations Department of a US-based IT consulting firm — deeply passionate about Data Engineering, Data Analysis, and AI.
+> Results-oriened Data Analyst and Technical Support Coordinator with 3 years in the Operations Department of a US-based IT consulting firm — deeply passionate about Data Engineering, Data Analysis, AI and business operations improvements.
 
 ## 🧭 Career Journey Overview
 
