@@ -2,6 +2,13 @@
 
 > *3 years · Operations · US-based IT consulting · Remote*
 
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-FF6F00?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge)
+![Process Optimization](https://img.shields.io/badge/Process_Optimization-1E90FF?style=for-the-badge)
+![ITIL](https://img.shields.io/badge/ITIL-Framework-6A0DAD?style=for-the-badge)
+![ITSM](https://img.shields.io/badge/ITSM-IT_Service_Management-0052CC?style=for-the-badge)
+
 ## ⚡ Career Timeline
 
 <br>
@@ -24,8 +31,8 @@ Built and shipped **Userlytics Admin Dashboard Plus** MVP — an internal tool l
 
 <br>
 
-> **Note:** In parallel, I managed high-priority support incidents on IT Support channels and collaborated directly with the **CTO and CPO** on resolution strategies and product improvements. I took ownership of **EMEA support operations** and consistently achieved IT support lead KPIs — implementing self-service resources at **Tier 0** to deflect common issues, handling onboarding and intelligent ticket triage at **Tier 1**, and coordinating escalations at **Tier 2**, overseeing multi-tiered workflows to ensure consistent service quality and enhance team performance.
-
+> **Note:** In parallel, I managed high-priority support incidents and collaborated directly with the **CTO and CPO** on resolution strategies and product improvements — including **problem management** to address recurring issues at the root. I took ownership of **EMEA support operations**, consistently achieving IT support KPIs and **SLA targets** — implementing self-service resources at **Tier 0** to deflect common issues, handling onboarding and intelligent ticket triage at **Tier 1**, and coordinating escalations at **Tier 2**, following **ITIL-aligned** multi-tiered workflows to ensure consistent service quality and team performance.
+> 
 ---
 
 ### 🟨 &nbsp;2021 – 2023 &nbsp;·&nbsp; Frontend Development Bootcamp
